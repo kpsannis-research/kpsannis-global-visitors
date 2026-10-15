@@ -1,0 +1,44 @@
+{
+  "source": "Google Analytics 4",
+  "propertyId": "326431794",
+  "metric": "activeUsers",
+  "period": "last_30_completed_days",
+  "updatedAt": "2026-10-15T12:37:32.040787+00:00",
+  "countries": [
+    {
+      "country": "Greece",
+      "countryCode": "GR",
+      "visitors": 65
+    },
+    {
+      "country": "United States",
+      "countryCode": "US",
+      "visitors": 5
+    },
+    {
+      "country": "India",
+      "countryCode": "IN",
+      "visitors": 2
+    },
+    {
+      "country": "Ireland",
+      "countryCode": "IE",
+      "visitors": 1
+    },
+    {
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "visitors": 1
+    },
+    {
+      "country": "Poland",
+      "countryCode": "PL",
+      "visitors": 1
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "visitors": 1
+    }
+  ]
+}
