@@ -3,7 +3,7 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-10-22T03:45:03.403167+00:00",
+  "updatedAt": "2026-10-23T03:44:28.218957+00:00",
   "countries": [
     {
       "country": "Greece",
@@ -18,7 +18,12 @@
     {
       "country": "Singapore",
       "countryCode": "SG",
-      "visitors": 2
+      "visitors": 3
+    },
+    {
+      "country": "China",
+      "countryCode": "CN",
+      "visitors": 1
     },
     {
       "country": "Cyprus",
