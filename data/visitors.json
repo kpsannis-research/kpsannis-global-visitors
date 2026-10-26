@@ -3,7 +3,7 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-10-25T03:44:16.532291+00:00",
+  "updatedAt": "2026-10-26T03:46:45.664322+00:00",
   "countries": [
     {
       "country": "Greece",
@@ -53,6 +53,11 @@
     {
       "country": "Netherlands",
       "countryCode": "NL",
+      "visitors": 1
+    },
+    {
+      "country": "Pakistan",
+      "countryCode": "PK",
       "visitors": 1
     },
     {
