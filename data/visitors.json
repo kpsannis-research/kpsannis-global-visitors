@@ -3,12 +3,12 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-11-02T04:04:35.307532+00:00",
+  "updatedAt": "2026-11-03T03:59:28.966556+00:00",
   "countries": [
     {
       "country": "Greece",
       "countryCode": "GR",
-      "visitors": 123
+      "visitors": 130
     },
     {
       "country": "United States",
