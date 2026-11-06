@@ -3,17 +3,17 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-11-05T04:02:40.576964+00:00",
+  "updatedAt": "2026-11-06T04:00:27.650773+00:00",
   "countries": [
     {
       "country": "Greece",
       "countryCode": "GR",
-      "visitors": 128
+      "visitors": 122
     },
     {
       "country": "United States",
       "countryCode": "US",
-      "visitors": 11
+      "visitors": 8
     },
     {
       "country": "Singapore",
@@ -48,11 +48,6 @@
     {
       "country": "India",
       "countryCode": "IN",
-      "visitors": 1
-    },
-    {
-      "country": "Ireland",
-      "countryCode": "IE",
       "visitors": 1
     },
     {
