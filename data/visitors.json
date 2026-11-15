@@ -3,22 +3,17 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-11-14T04:00:11.157442+00:00",
+  "updatedAt": "2026-11-15T04:00:42.609056+00:00",
   "countries": [
     {
       "country": "Greece",
       "countryCode": "GR",
-      "visitors": 176
+      "visitors": 172
     },
     {
       "country": "United States",
       "countryCode": "US",
-      "visitors": 16
-    },
-    {
-      "country": "Bulgaria",
-      "countryCode": "BG",
-      "visitors": 2
+      "visitors": 15
     },
     {
       "country": "Cyprus",
