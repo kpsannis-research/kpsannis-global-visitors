@@ -3,12 +3,12 @@
   "propertyId": "326431794",
   "metric": "activeUsers",
   "period": "last_30_completed_days",
-  "updatedAt": "2026-11-23T12:40:20.537691+00:00",
+  "updatedAt": "2026-11-24T13:43:01.631596+00:00",
   "countries": [
     {
       "country": "Greece",
       "countryCode": "GR",
-      "visitors": 145
+      "visitors": 146
     },
     {
       "country": "United States",
@@ -58,6 +58,11 @@
     {
       "country": "Pakistan",
       "countryCode": "PK",
+      "visitors": 1
+    },
+    {
+      "country": "Singapore",
+      "countryCode": "SG",
       "visitors": 1
     },
     {
